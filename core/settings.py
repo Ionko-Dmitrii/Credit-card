@@ -149,4 +149,4 @@ else:
 try:
     from .settings_local import *
 except ImportError:
-    logging.error('settings.local.py file not found !')
+    logging.error('settings_local.py file not found !')
