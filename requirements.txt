@@ -4,3 +4,6 @@ Pillow==9.3.0
 psycopg2-binary==2.8.6
 django-jet==1.0.8
 djangorestframework==3.11.0
+django-filter==2.4.0
+drf-yasg==1.17.1
+django-crontab==0.7.1
